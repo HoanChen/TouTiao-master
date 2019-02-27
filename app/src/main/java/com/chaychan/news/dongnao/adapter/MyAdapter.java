@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.atguigu.android.R;
-import com.atguigu.android.dongnao.bean.Girl;
+import com.chaychan.news.R;
+import com.chaychan.news.dongnao.bean.Girl;
 
 import java.util.List;
 

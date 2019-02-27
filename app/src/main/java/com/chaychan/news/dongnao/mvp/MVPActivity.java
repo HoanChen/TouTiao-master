@@ -3,10 +3,10 @@ package com.chaychan.news.dongnao.mvp;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.atguigu.android.R;
-import com.atguigu.android.dongnao.bean.Girl;
-import com.atguigu.android.dongnao.presenter.GirlPresenter;
-import com.atguigu.android.dongnao.view.IGirlView;
+import com.chaychan.news.R;
+import com.chaychan.news.dongnao.bean.Girl;
+import com.chaychan.news.dongnao.presenter.GirlPresenter;
+import com.chaychan.news.dongnao.view.IGirlView;
 
 import java.util.List;
 

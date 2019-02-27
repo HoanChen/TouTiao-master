@@ -1,9 +1,9 @@
 package com.chaychan.news.dongnao.presenter;
 
-import com.atguigu.android.dongnao.bean.Girl;
-import com.atguigu.android.dongnao.model.GirlModelImpl;
-import com.atguigu.android.dongnao.model.IGirlModel;
-import com.atguigu.android.dongnao.view.IGirlView;
+import com.chaychan.news.dongnao.bean.Girl;
+import com.chaychan.news.dongnao.model.GirlModelImpl;
+import com.chaychan.news.dongnao.model.IGirlModel;
+import com.chaychan.news.dongnao.view.IGirlView;
 
 import java.lang.ref.WeakReference;
 import java.util.List;

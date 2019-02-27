@@ -3,8 +3,7 @@ package com.chaychan.news.dongnao.mvp;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.atguigu.android.dongnao.presenter.BasePresenter;
-
+import com.chaychan.news.dongnao.presenter.BasePresenter;
 
 /**
  * Created by CHP on 2018/8/18.
